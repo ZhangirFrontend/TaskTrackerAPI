@@ -2,7 +2,7 @@
 
 This repository contains a professional implementation of a Task Management Microservice, developed as a Midterm Assignment. The project demonstrates advanced C# features, SOLID principles, and containerization.
 
-## 🛠 Features & Architecture
+Features & Architecture
 
 ### 1. Domain Layer (OOP & Logic)
 - **Advanced Encapsulation**: Implemented a `BaseTask` abstract class where `Id` and `CreatedAt` are immutable after object creation (using private setters/init).
